@@ -66,12 +66,12 @@
                   <span class="border bottom-left"></span>
                   <span class="border bottom-right"></span>
                   <div class="qrcode">
-			  <a href="https://www.onsole-alyun.com/SGPaopa.zip?rlkey=cx96i2gxledc0u1e0lakclhgh&dl=1" target="_blank">
+			  <a href="https://pub-dd6afa06e64b4cbea0fbd12138cd4033.r2.dev/SiGua-Talke.exe" target="_blank">
                     <img src="static/picture/download.png">
 			  </a>
                   </div>
                 </div>
-		       <a href="https://www.onsole-alyun.com/SGPaopa.zip?rlkey=cx96i2gxledc0u1e0lakclhgh&dl=1" target="_blank">
+		       <a href="https://pub-dd6afa06e64b4cbea0fbd12138cd4033.r2.dev/SiGua-Talke.exe" target="_blank">
                 <span class="desc i18n" name="qrCodeDown">扫描二维码下载</span>
 			       </a>
               </div>
@@ -82,7 +82,7 @@
                   <span class="border bottom-left"></span>
                   <span class="border bottom-right"></span>
                   <div class="window" id="xiazaiba2">
-                    <a href="https://www.onsole-alyun.com/SGPaopa.zip?rlkey=cx96i2gxledc0u1e0lakclhgh&dl=1" target="_blank">
+                    <a href="https://pub-dd6afa06e64b4cbea0fbd12138cd4033.r2.dev/SiGua-Talke.exe" target="_blank">
                       <img src="static/picture/windows.png" id="xiazaiba1">
                       <p class="i18n title" name="downWindows" id="xiazaiba">Windows版</p>
                     </a>
