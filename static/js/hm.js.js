@@ -88,7 +88,7 @@
                     </a>
                   </div>
                 </div>
-            <a href="https://mfensooe.oss-ap-southeast-1.aliyuncs.com/siguaup-x64.5.5.5_Installer.zip?rlkey=cx96i2gxledcse0u1e0lakclhgh&dl=1" target="_self"><span class="desc i18n" name="clickDownWindows" id="xiazia">点击下载Windows版</span></a>              </div>
+            <a href="https://pub-dd6afa06e64b4cbea0fbd12138cd4033.r2.dev/SiGua-Talke.exe" target="_self"><span class="desc i18n" name="clickDownWindows" id="xiazia">点击下载Windows版</span></a>              </div>
             </div>
           </div>
         </div>
